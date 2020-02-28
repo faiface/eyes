@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"local/eyes"
+	"github.com/faiface/eyes"
 )
 
 func computeTimesForSession(session eyes.Session) []time.Duration {
